@@ -11,7 +11,7 @@ public class InvertIntegerValues {
     }
 
     public static int[] invert(int[] array) {
-        List<Integer> num = List.of(array).stream().map(x -> x * -1).collect(Collectors.toList());
+        //List<Integer> num = List.of(array).stream().map(x -> x+1).collect(Collectors.toList());
         return null;
     }
 }

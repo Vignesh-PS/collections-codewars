@@ -13,7 +13,7 @@ public class DateParser {
         Date dateObj = parseDateFromString(strDate);
         System.out.println(dateObj.toString());
 
-        String month = new SimpleDateFormat("MMM").format(dateObj);
+        String month = new SimpleDateFormat("MMMM").format(dateObj);
         System.out.println(month);
     }
 
