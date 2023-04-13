@@ -1,0 +1,22 @@
+{
+  "name": "collections-codewars",
+  "version": "1.0.0",
+  "description": "\"# js-collections-codewars\"",
+  "main": "1.collatz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignesh-PS/collections-codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vignesh-PS/collections-codewars/issues"
+  },
+  "homepage": "https://github.com/Vignesh-PS/collections-codewars#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
